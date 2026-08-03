@@ -1,0 +1,30 @@
+{
+  "original_num_hyperedges": 5659,
+  "original_num_nodes_in_hyperedges": 10705,
+  "num_weak_components": 223,
+  "top_10_component_sizes": [
+    9698,
+    42,
+    19,
+    16,
+    16,
+    15,
+    15,
+    15,
+    14,
+    13
+  ],
+  "largest_component_size": 9698,
+  "filtered_num_hyperedges": 5310,
+  "filtered_num_nodes": 9698,
+  "filtered_largest_component_node_ratio": 0.9059318075665577,
+  "filtered_hyperedge_ratio": 0.9383283265594629,
+  "original_sign_distribution": {
+    "1": 5266,
+    "-1": 393
+  },
+  "filtered_sign_distribution": {
+    "1": 4957,
+    "-1": 353
+  }
+}
