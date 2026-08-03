@@ -1,0 +1,26 @@
+{
+  "slashdot_hypergraph_k2_min40_max80_deg80_seed0.pkl": {
+    "data_hashes": {
+      "base_graph": "483cd4324fa508f6cce1cb398366d6797d7aeb124a37372684797d2282f43c9a",
+      "hyperedges": "4659755426b22cf18d0f68444ab8deb13cf85b5bdd8de9d20654714fad25f66d",
+      "node_features": "971c14ec8ba98c4f679a93442036e2c99996890ba70286cf89760794651d6a1a",
+      "node_list": "7b8a596a70a034ba47edc99cf5f9bb41d540f8a30209b2c06d8458b7fdd63fe3",
+      "source_incidence": "dbb0586fc881f8eb6892c057497e135d1c84020d027d0c0697d9b862c5d86b25",
+      "target_incidence": "b47a7cceb98f6ed8471f0ed34f52ef50ec60469dd1c36eb2214d256fc2a2573b"
+    },
+    "num_hyperedges": 7764,
+    "num_nodes": 77350
+  },
+  "wiki_hypergraph_k2_min20_max50_deg50_seed0.pkl": {
+    "data_hashes": {
+      "base_graph": "d34c7138d108c929d79a6d66679b8588d91b611f200c326446311144ee07a040",
+      "hyperedges": "3024dd45ce8582a0e612ff4ea1e1d9be0f78d8cf0c3f599b251167e37983eae8",
+      "node_features": "dc20a8452b126239f03f1c2cb5060cf48f22a6e9f10666c06c76f81ec69a5647",
+      "node_list": "d377c4ce259687c02cee1f83d63438152ea2b71023d332c1d68be9cfff68e0e0",
+      "source_incidence": "6a0c39aad1eb52d244ab799cbd626cec118071fe8b907bd33f080e9b4ffbdb4f",
+      "target_incidence": "868d86b26489f63d4ce9e9b380aa70eb74c0f952ee9fd8e998b101c84064d33e"
+    },
+    "num_hyperedges": 7191,
+    "num_nodes": 11381
+  }
+}
