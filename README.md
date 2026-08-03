@@ -36,7 +36,6 @@ SDHGNN/
 ├── data/
 │   ├── raw/
 │   └── processed/
-├── outputs/
 ├── scripts/
 ├── src/
 │   └── sdhgnn/
@@ -44,8 +43,6 @@ SDHGNN/
 │       ├── models/
 │       ├── sampling/
 │       └── training/
-├── tests/
-├── pyproject.toml
 └── README.md
 ```
 
