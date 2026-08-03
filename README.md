@@ -219,16 +219,3 @@ The strictly real-valued variant uses:
   "use_imag_channel": false
 }
 ```
-
-## Outputs
-
-Training scripts write:
-
-- `config.json`;
-- `fold_results.csv`;
-- `predictions.csv`;
-- `splits.npz`;
-- `summary.json`;
-- `reports/fold_XX.json`;
-- `checkpoints/fold_XX.pt`.
-
