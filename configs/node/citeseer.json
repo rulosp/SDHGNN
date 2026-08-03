@@ -1,0 +1,15 @@
+{
+  "q1": 0.25,
+  "q2": 0.25,
+  "hidden_dim": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0005,
+  "epochs": 500,
+  "dropout": 0.5,
+  "patience": 100,
+  "num_layers": 1,
+  "use_hyperedge_conv": false,
+  "use_phase_matrix": true,
+  "use_imag_channel": true,
+  "selection_metric": "macro_f1"
+}

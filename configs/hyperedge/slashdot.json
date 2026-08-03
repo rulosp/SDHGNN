@@ -1,0 +1,20 @@
+{
+  "q1": 0.15,
+  "q2": 0.2,
+  "hidden_dim": 64,
+  "learning_rate": 0.0005,
+  "weight_decay": 0.0005,
+  "epochs": 500,
+  "dropout": 0.5,
+  "batch_size": 5000,
+  "patience": 50,
+  "negative_sampling_mode": "mixed",
+  "negative_ratio": 0.2,
+  "num_layers": 2,
+  "use_hyperedge_conv": true,
+  "use_phase_matrix": true,
+  "use_imag_channel": true,
+  "use_class_weights": false,
+  "class_weight_negative_ratio": 0.2,
+  "selection_metric": "macro_f1"
+}
